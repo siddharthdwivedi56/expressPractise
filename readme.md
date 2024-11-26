@@ -14,7 +14,7 @@
 * Manago Db
 * signup with mangodb atles 
 * mangoose 
-password of mangodb `CKhkWarlzczxqtfN`
+
 
 ## MVC Architecture and CRUD
 
