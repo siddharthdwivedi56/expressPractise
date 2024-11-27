@@ -14,10 +14,6 @@
 * Manago Db
 * signup with mangodb atles 
 * mangoose 
-
-
-## MVC Architecture and CRUD
-
-## Authentication & Authorization
-
-## User's & Admins Route
+* create schema
+* create Model
+* CRUD
