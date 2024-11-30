@@ -5,7 +5,7 @@ const app = express();
 
 app.use(express.json());
 
-const dbUrl = "mongodb+srv://siddharthdwivedi56:<password>@cluster0.tt6sv.mongodb.net/mydb?retryWrites=true&w=majority&appName=Cluster0";
+const dbUrl = "mongodb+srv://siddharthdwivedi56:CKhkWarlzczxqtfN@cluster0.tt6sv.mongodb.net/mydb?retryWrites=true&w=majority&appName=Cluster0";
 mongoose.connect(dbUrl).then((con)=>console.log("connected")).catch(err => console.log(err));
 
 const courseSchema = new mongoose.Schema({
